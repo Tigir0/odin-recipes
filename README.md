@@ -1,6 +1,6 @@
 # odin-recipes
 
-A website for a task in odinproject.com first course
+A website for a task in https://www.theodinproject.com/ introduction course
 
 First project: Recipes
 
